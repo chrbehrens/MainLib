@@ -9,6 +9,9 @@ int main(int argc, char *argv[])
     printf("   ...one more feature\n");
     printf("   ...und ein letztes feature");    
     printf("   ...nun aber wirklich das letztes feature");  
-    printf("...see you!");
+    printf("new lib2\n");     
+    printf("a new feature mul2Integer(3,9): %d\n", mul2Integer(3, 9)); 
+    printf("...see you!");    
+
     return 0;
 }
