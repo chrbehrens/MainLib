@@ -1,0 +1,1 @@
+extern int add2Integer(int a, int b);

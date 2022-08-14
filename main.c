@@ -1,7 +1,9 @@
 #include <stdio.h>
+#include "lib.h"
 
 int main(int argc, char *argv[])
 {
-    printf("this is in the master branch!");
+    printf("this is in the master branch!\n");
+    printf("a new feature add2Integer(2,3): %d\n", add2Integer(2,3));
     return 0;
 }
