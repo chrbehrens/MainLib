@@ -8,5 +8,6 @@ int main(int argc, char *argv[])
     printf("   ...one more feature\n");
     printf("   ...und ein letztes feature");    
     printf("   ...nun aber wirklich das letztes feature");  
+    printf("...see you!");
     return 0;
 }
