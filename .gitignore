@@ -1,0 +1,3 @@
+# Datei .gitignore im Repository-Verzeichnis
+*.exe
+*.obj
