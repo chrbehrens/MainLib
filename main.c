@@ -5,7 +5,7 @@ int main(int argc, char *argv[])
 {
     printf("this is in the master branch!\n");
     printf("a new feature add2Integer(2,3): %d\n", add2Integer(2,3));
-    printf("   ...one more feature\n")
+    printf("   ...one more feature\n");
     printf("   ...und ein letztes feature");    
     return 0;
 }
